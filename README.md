@@ -32,7 +32,7 @@ The program includes a command-line interface (CLI) for interacting with the dat
 
 # Start the program by running:
 
-- tun *node MainAssignment.js* in terminal
+- Run *node MainAssignment.js* in terminal
 - Select the reporting menu.
 - Choose the option for "Average rent by city."
 - The results will be displayed in a paginated table.
